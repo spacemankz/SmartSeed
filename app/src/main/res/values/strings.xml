@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KAZCHEM</string>
+    <string name="app_logo">KAZCHEM</string>
+    <string name="button1">NDVI</string>
+    <string name="button2">Выгрузить данные</string>
+    <string name="button3">Поделиться</string>
+    <string name="access_token">pk.eyJ1Ijoic3BhY2VtYW5reiIsImEiOiJjbDAwN3JtdHIwaGlsM3F0MXdhejBzbDczIn0.dSHb78OpO4O-p88wyDTmDA</string>
+</resources>
